@@ -281,4 +281,4 @@ fun loadAll(): Map<Int, String> {
 
 가끔 효율성 때문에 immutable 보다 mutable 객체를 사용하는 것이 좋은데 성능이 중요한 부분에서만 사용하는 것이 좋다. 
 
-immutable 객체를 사용할 때는 멀티쓰레드 사용에 더 많은 주의를 기울여야 한다.
+mmutable 객체를 사용할 때는 멀티쓰레드 사용에 더 많은 주의를 기울여야 한다.
